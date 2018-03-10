@@ -57,3 +57,8 @@ typings/
 # dotenv environment variables file
 .env
 
+# saved image directory
+ss_images/
+
+# tool setting files
+.idea
